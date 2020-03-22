@@ -1,0 +1,61 @@
+.editor-styles-wrapper,
+.editor-styles-wrapper .editor-writing-flow,
+.editor-styles-wrapper p,
+.editor-styles-wrapper .wp-block p {
+  font:    18px / 28px "Lato", Helvetica, Arial, Verdana, sans-serif;
+  word-spacing: normal;
+}
+.editor-styles-wrapper .wp-block-cover .wp-block-cover-text,
+.editor-styles-wrapper .wp-block-cover h2 {
+  font:    30px / 40px "Noticia Text", Helvetica, Arial, Verdana, sans-serif !important;
+  text-transform: uppercase;
+}
+.text-big,
+.dt-accordion-text-big .wpb_accordion_header > a {
+  font-size: 18px;
+  line-height: 28px;
+}
+.text-normal,
+.dt-accordion-text-normal .wpb_accordion_header > a {
+  font-size: 15px;
+  line-height: 24px;
+}
+.text-small,
+.dt-accordion-text-small .wpb_accordion_header > a {
+  font-size: 13px;
+  line-height: 23px;
+}
+.wp-block-heading h1,
+.wp-block-freeform.block-library-rich-text__tinymce > h1 {
+  font:    48px / 58px "Noticia Text", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+.wp-block-heading h2,
+.wp-block-freeform.block-library-rich-text__tinymce > h2 {
+  font:    38px / 48px "Noticia Text", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+.wp-block-heading h3,
+.wp-block-freeform.block-library-rich-text__tinymce > h3 {
+  font:    30px / 40px "Noticia Text", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+.wp-block-heading h4,
+.wp-block-freeform.block-library-rich-text__tinymce > h4 {
+  font:    24px / 34px "Noticia Text", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+.wp-block-heading h5,
+.wp-block-freeform.block-library-rich-text__tinymce > h5 {
+  font:    20px / 30px "Noticia Text", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+.wp-block-heading h6,
+.wp-block-freeform.block-library-rich-text__tinymce > h6 {
+  font:    16px / 26px "Noticia Text", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
+.editor-styles-wrapper .wp-block .wp-block-button .wp-block-button__link {
+  font:    14px / 16px "Noticia Text", Helvetica, Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+}
