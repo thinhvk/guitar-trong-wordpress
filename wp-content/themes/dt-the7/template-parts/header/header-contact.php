@@ -9,8 +9,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 ?>
-<div class="branding" style="color: red !important;">hghhgjgjjh
-	<div class="soc-ico"><p class="assistive-text">
-	Find us on:</p><a title="Facebook" href="Fb.com/cajonhuutrong" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a></div>
-</div>
+<ul id="primary-menu" class="main-nav underline-decoration downwards-line outside-item-remove-margin" role="navigation">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1079 current_page_item menu-item-1080 act first"> 
+		<a href="tel:033 639 9506">
+			<i class="icomoon-the7-font-the7-phone-04" style="color: #c19434 !important;"></i>033 639 9506
+		</a>
+	</li>  
+</ul>
 
