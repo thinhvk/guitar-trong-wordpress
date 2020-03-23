@@ -34,6 +34,5 @@ if ( ! defined( 'ABSPATH' ) ) {
 	presscore_render_header_elements( 'near_logo_left' );
 	presscore_render_header_elements( 'near_logo_right' );
 	?>
-	<div style="vertical-align: center;color: red;">0336 399 506 - 0817 3333 88 gặp TRỌNG</div>
 </div>
 
